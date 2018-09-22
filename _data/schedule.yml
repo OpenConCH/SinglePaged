@@ -81,7 +81,7 @@
     - {title: "Unconference", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "09:00",
+    	startTime: "09:35",
     	endTime: "10:00",
     	sessionIds: [308]
     }
