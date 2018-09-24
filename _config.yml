@@ -42,15 +42,15 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Talks"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Talks"}
 rightNavigationButtons:
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Talks"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -59,8 +59,7 @@ eventDate: "21 - 22 September, 2018"
 typeoutTextValues: '"", "Switzerland", "Bern", "Satellite", "CH"'
 typeoutFallback: "Switzerland"
 heroButtons:
- - {permalink: "/logistics/", text: "Getting Here"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Talks"}
 
 # About Block
 aboutTitle: "About GDG DevFest"

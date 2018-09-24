@@ -69,6 +69,7 @@
   description: "Science in the 21st century is becoming increasingly collaborative and open in nature. Consequently, the advancement of a research field should be measured not only by scientific output but also by the level of participation of its community members. Hence, a successful community should be able to promote equal participation from its community members independent of the factors such as geographic location, gender, ethnicity and social background. In my talk I will explore inclusiveness as one of the key features of open source community and share some of the lessons learned while adopting them in my work as a community manager."
   subtype: keynote
   speakers: [8]
+  presentation: "https://speakerdeck.com/malvikasharan/inclusiveness-in-open-science"
 -
   id: 005
   title: "Using open data to track and predict infectious disease"
@@ -78,15 +79,17 @@
 -
   id: 006
   title: "Open Access in Switzerland: The Endgame"
-  description: "The high-level goals are set. According to the <a href='https://www.swissuniversities.ch/fileadmin/swissuniversities/Dokumente/Hochschulpolitik/Open_Access/Open_Access_strategy_final_e.pdf' target='_blank'>Swiss National Strategy on Open Access</a>, all scholarly publications funded by public money must be freely accessible on the internet by 2024. The Swiss National Science Foundation (SNSF) even wants to reach <a href='www.snf.ch/en/theSNSF/research-policies/open-access/Pages/default.aspx' target='_blank'>100% OA by 2020</a> for all publications that result out of SNSF funded projects. How can these goals be put into practice?"
+  description: "The high-level goals are set. According to the <a href='https://www.swissuniversities.ch/fileadmin/swissuniversities/Dokumente/Hochschulpolitik/Open_Access/Open_Access_strategy_final_e.pdf' target='_blank'>Swiss National Strategy on Open Access</a>, all scholarly publications funded by public money must be freely accessible on the internet by 2024. The Swiss National Science Foundation (SNSF) even wants to reach <a href='http://www.snf.ch/en/theSNSF/research-policies/open-access/Pages/default.aspx' target='_blank'>100% OA by 2020</a> for all publications that result out of SNSF funded projects. How can these goals be put into practice?"
   subtype: presentation
   speakers: [3]
+  presentation: "https://www.slideshare.net/chgutknecht/open-access-in-switzerland-the-endgame/chgutknecht/open-access-in-switzerland-the-endgame"
 -
   id: 008
   title: "Autonomous Scholarly Web"
   description: "In this talk we will discuss the realisation of a social scholarly information space that is completely driven by autonomous and interoperable open Web standards. What are the effects and artefacts of such paradigm? How is it different than the plethora of existing services and platforms? Why would a researcher-centric approach to scholarly communication be desirable?"
   subtype: presentation
   speakers: [12]
+  presentation: "http://csarven.ca/presentations/autonomous-scholarly-web"
 -
   id: 009
   title: "The Role of Swiss Libraries in the Future of Open Science"
@@ -99,12 +102,14 @@
   description: "Tim Head will talk about why he thinks he can have more impact on the progress of science by not being a professional academic. Being a brain-for-hire has its own challenges but brings several benefits compared to life as a post-doc."
   subtype: presentation
   speakers: [15]
+  presentation: "https://rawgit.com/betatim/talk-openconCH-2018/master/index.html?p=talk.md#1"
 -
   id: 011
   title: "Sharing code with rOpenSci"
   description: "I will discuss the sharing of code and open code review in the organization rOpenSci. rOpenSci is a non-profit organization that promotes reproducibility in science by providing and enabling software, data access and tutorials for scientific applications."
   subtype: presentation
   speakers: [5]
+  presentation: "https://www.slideshare.net/jgustavsen/code-sharing-and-review-in-the-open-with-ropensci-115742181"
 -
   id: 012
   title: "An Overview of Swiss Open Data"
