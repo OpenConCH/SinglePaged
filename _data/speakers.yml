@@ -138,15 +138,15 @@ joined the Biozentrum of the University of Basel as an associate professor in 20
     - {name: "site", link: "http://csarven.ca/"}
 -
   id: 13
-  name: "Stéphane"
-  surname: "Joost"
-  company: "EPFL"
-  title: "Quantitative Geographer"
-  bio: "Stéphane Joost is a quantitative geographer, specialized in the analysis of the relationships between living organisms and their environment. He uses Geographic Information Systems (GIS) and spatial statistics for the analysis of genetic and health data (molecular ecology, spatial epidemiology)."
-  thumbnailUrl: Stephane.jpg
+  name: "Paul-Olivier"
+  surname: "Dehaye"
+  company: "PersonalData.io"
+  title: "Mathematician"
+  bio: "Paul-Olivier is the founder of <a href='https://personaldata.io' target='_blank'>PersonalData.io</a>. Polytropon thinking about maths, data, science, ethics, collective intelligence and cognition."
+  thumbnailUrl: Paul-Olivier.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/stephanejoost"}
+    - {name: "twitter", link: "https://twitter.com/podehaye"}
 -
   id: 14
   name: "Tania"
